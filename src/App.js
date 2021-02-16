@@ -68,7 +68,8 @@ export default class App extends React.Component {
               <div style={{ marginLeft: "10px" }}></div>
               <a
                 class="github-button"
-                href="https://github.com/jasbirrajrana/#"
+                href="https://github.com/jasbirrajrana/
+markdown-Previewer"
                 data-icon="octicon-star"
                 data-size="large"
                 aria-label="Star lelouchB/markdown-previewer on GitHub"
@@ -78,10 +79,12 @@ export default class App extends React.Component {
 
               <a
                 class="github-button"
-                href="https://github.com/jasbirrajrana/#/fork"
+                href="https://github.com/jasbirrajrana/
+markdown-Previewer/fork"
                 data-icon="octicon-repo-forked"
                 data-size="large"
-                aria-label="Fork jasbirrajrana/# on GitHub"
+                aria-label="Fork jasbirrajrana/
+markdown-Previewer on GitHub"
               >
                 Fork
               </a>
